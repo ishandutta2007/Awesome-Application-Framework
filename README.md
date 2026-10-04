@@ -1,7 +1,7 @@
 # 🚀 Awesome Application Framework 🛠️
 
 <p align="center">
-  <img src="banner.svg" alt="Awesome Application Framework Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Awesome Application Framework Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ The table below outlines enterprise-backed and commercial application frameworks
 
 ## ⚡ Open-Source Application Frameworks
 
-Below is a comprehensive list of top open-source application frameworks sorted in descending order by GitHub star counts ⭐.
+Below is a comprehensive list of top open-source application frameworks sorted in descending order by GitHub Stars_Counts ⭐.
 
 ### 🟨 JavaScript & TypeScript
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Next.js](https://github.com/vercel/next.js)** | [![Stars](https://img.shields.io/github/stars/vercel/next.js?style=social&color=white)](https://github.com/vercel/next.js/stargazers) | MIT | Full-stack React framework with SSR, SSG, App Router, and Server Actions |
 | **[Angular](https://github.com/angular/angular)** | [![Stars](https://img.shields.io/github/stars/angular/angular?style=social&color=white)](https://github.com/angular/angular/stargazers) | MIT | Complete enterprise TypeScript frontend framework from Google |
@@ -70,7 +70,7 @@ Below is a comprehensive list of top open-source application frameworks sorted i
 
 ### 🐍 Python
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Django](https://github.com/django/django)** | [![Stars](https://img.shields.io/github/stars/django/django?style=social&color=white)](https://github.com/django/django/stargazers) | BSD-3-Clause | Batteries-included Python framework with built-in ORM, admin UI, and authentication |
 | **[FastAPI](https://github.com/fastapi/fastapi)** | [![Stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers) | MIT | Modern, high-performance async API framework based on OpenAPI & Pydantic |
@@ -81,7 +81,7 @@ Below is a comprehensive list of top open-source application frameworks sorted i
 
 ### ☕ Java & JVM
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Spring Boot](https://github.com/spring-projects/spring-boot)** | [![Stars](https://img.shields.io/github/stars/spring-projects/spring-boot?style=social&color=white)](https://github.com/spring-projects/spring-boot/stargazers) | Apache-2.0 | Standard enterprise Java runtime with auto-configuration and microservices ecosystem |
 | **[Quarkus](https://github.com/quarkusio/quarkus)** | [![Stars](https://img.shields.io/github/stars/quarkusio/quarkus?style=social&color=white)](https://github.com/quarkusio/quarkus/stargazers) | Apache-2.0 | Kubernetes-native Java framework optimized for GraalVM native images and serverless |
@@ -92,7 +92,7 @@ Below is a comprehensive list of top open-source application frameworks sorted i
 
 ### 🐘 PHP
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Laravel](https://github.com/laravel/framework)** | [![Stars](https://img.shields.io/github/stars/laravel/framework?style=social&color=white)](https://github.com/laravel/framework/stargazers) | MIT | Premier PHP web framework featuring Eloquent ORM, Blade, and extensive ecosystem |
 | **[Symfony](https://github.com/symfony/symfony)** | [![Stars](https://img.shields.io/github/stars/symfony/symfony?style=social&color=white)](https://github.com/symfony/symfony/stargazers) | MIT | High-performance enterprise PHP component framework powering major web applications |
@@ -102,7 +102,7 @@ Below is a comprehensive list of top open-source application frameworks sorted i
 
 ### 💎 Ruby
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Ruby on Rails](https://github.com/rails/rails)** | [![Stars](https://img.shields.io/github/stars/rails/rails?style=social&color=white)](https://github.com/rails/rails/stargazers) | MIT | Iconic full-stack web framework emphasizing convention over configuration and fast MVP delivery |
 | **[Sinatra](https://github.com/sinatra/sinatra)** | [![Stars](https://img.shields.io/github/stars/sinatra/sinatra?style=social&color=white)](https://github.com/sinatra/sinatra/stargazers) | MIT | Classy DSL micro-framework for rapidly building web applications in Ruby |
@@ -111,7 +111,7 @@ Below is a comprehensive list of top open-source application frameworks sorted i
 
 ### 🐹 Go & 🦀 Rust
 
-| Framework 🚀 | GitHub Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
+| Framework 🚀 | GitHub_Stars 🌟 | License 📜 | Ecosystem & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[Gin](https://github.com/gin-gonic/gin)** | [![Stars](https://img.shields.io/github/stars/gin-gonic/gin?style=social&color=white)](https://github.com/gin-gonic/gin/stargazers) | MIT | High-performance HTTP web framework written in Go featuring a custom Radix tree router |
 | **[Fiber](https://github.com/gofiber/fiber)** | [![Stars](https://img.shields.io/github/stars/gofiber/fiber?style=social&color=white)](https://github.com/gofiber/fiber/stargazers) | MIT | Express-inspired web framework built on top of Fasthttp for Go |
@@ -127,7 +127,7 @@ Contributions are warmly welcomed! Please follow these simple guidelines:
 
 1. 🍴 Fork this repository.
 2. 📝 Add or update framework entries in `README.md`.
-3. 🎯 Ensure descriptions are concise, accurate, and properly formatted with star badges linking to stargazers pages.
+3. 🎯 Ensure descriptions are concise, accurate, and properly formatted with Stars_Badges linking to stargazers pages.
 4. 🚀 Submit a Pull Request with a clear description of your additions!
 
 Check out awesome resources across the ecosystem: [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
@@ -161,3 +161,12 @@ If you find this curated application framework list helpful, please consider sup
 <p align="center">
   <b>Crafted with ❤️ for developers, software architects, and engineering leaders worldwide.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Application-Framework&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Application-Framework_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Application-Framework_growth.svg">
+  </picture>
+</a>
